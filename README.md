@@ -1,7 +1,5 @@
 ### Hi there, I'm Uma Ajay Kumar Reddy P S! 👋🚀
 
-![Profile Banner](https://umaajay.netlify.app/img/thumbs/47-60.jpg)
-
 I am a **Senior Software Engineer | Web3 Architect | DevOps Specialist | Full-Stack Developer** with extensive experience in building **scalable, high-performance web applications, blockchain solutions, AI-driven platforms, and cloud infrastructure**. I have contributed to **100+ GitHub repositories** and have been actively involved in **open-source development and large-scale enterprise applications**.
 
 ### 🌟 About Me
